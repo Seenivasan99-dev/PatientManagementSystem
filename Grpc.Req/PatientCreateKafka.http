@@ -1,0 +1,4 @@
+
+GET  http://localhost:4004/All/Patients
+Content-Type: application/json
+
